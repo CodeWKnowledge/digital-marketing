@@ -296,8 +296,8 @@ export default function HomePage() {
             </Link>
           </div>
           <ul className="products columns-4">
-            {products.slice(0, 8).map((product) => (
-              <ProductCard key={product.id} product={product} />
+            {products.slice(0, 8).map((product, i) => (
+              <ProductCard key={product.id} product={product} priority={i < 4} />
             ))}
           </ul>
         </div>

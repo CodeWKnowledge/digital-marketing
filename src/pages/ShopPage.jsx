@@ -68,8 +68,8 @@ export default function ShopPage() {
         </p>
 
         <ul className="products columns-4">
-          {filtered.map((product) => (
-            <ProductCard key={product.id} product={product} />
+          {filtered.map((product, i) => (
+            <ProductCard key={product.id} product={product} priority={i < 8} />
           ))}
         </ul>
       </div>

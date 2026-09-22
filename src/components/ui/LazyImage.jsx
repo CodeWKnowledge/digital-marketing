@@ -67,7 +67,7 @@ export default function LazyImage({
             objectFit,
             display: 'block',
             opacity: loaded ? 1 : 0,
-            transition: 'opacity 0.35s ease',
+            transition: 'opacity 0.05s ease-out',
             willChange: loaded ? 'auto' : 'opacity',
           }}
         />
