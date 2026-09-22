@@ -11,9 +11,9 @@
     "shortDescription": "Infinix Note 50 Pro with fast charging and long battery life.",
     "fullDescription": "<p>Infinix Note 50 Pro with fast charging and long battery life.</p><p>Key Features: </p><ul><li>Fast charging</li><li>Long battery life</li><li>Powerful processor</li><li>Stunning display</li><li>AI-powered camera</li></ul>",
     "images": [
-      "/src/assets/gadgets/5278196e729914b8f64b4d1e284d529c.webp"
+      "/assets/gadgets/5278196e729914b8f64b4d1e284d529c.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/5278196e729914b8f64b4d1e284d529c.webp"
+    "primaryImage": "/assets/gadgets/5278196e729914b8f64b4d1e284d529c.webp"
   },
   {
     "id": "prod_48",
@@ -27,9 +27,9 @@
     "shortDescription": "Elegant silver-tone watch set by Anne Klein, including two clover-motif bracelets and an infinity bracelet.",
     "fullDescription": "<p>Elegant silver-tone watch set by Anne Klein, including two clover-motif bracelets and an infinity bracelet.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/jewelry/2f6905359f433fa004655df629134d8e.webp"
+      "/assets/jewelry/2f6905359f433fa004655df629134d8e.webp"
     ],
-    "primaryImage": "/src/assets/jewelry/2f6905359f433fa004655df629134d8e.webp"
+    "primaryImage": "/assets/jewelry/2f6905359f433fa004655df629134d8e.webp"
   },
   {
     "id": "prod_66",
@@ -43,9 +43,9 @@
     "shortDescription": "Comfortable and stylish men's apparel suitable for casual outings.",
     "fullDescription": "<p>Comfortable and stylish men's apparel suitable for casual outings.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/male clothing/e8e16071598a02e2c77b17aee8704c65.webp"
+      "/assets/male clothing/e8e16071598a02e2c77b17aee8704c65.webp"
     ],
-    "primaryImage": "/src/assets/male clothing/e8e16071598a02e2c77b17aee8704c65.webp"
+    "primaryImage": "/assets/male clothing/e8e16071598a02e2c77b17aee8704c65.webp"
   },
   {
     "id": "prod_15",
@@ -59,9 +59,9 @@
     "shortDescription": "Bold black and white vertically striped midi dress with an off-the-shoulder neckline.",
     "fullDescription": "<p>Bold black and white vertically striped midi dress with an off-the-shoulder neckline.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/Female-clothing/66cbeae997e94e31ec92f82507632528.webp"
+      "/assets/Female-clothing/66cbeae997e94e31ec92f82507632528.webp"
     ],
-    "primaryImage": "/src/assets/Female-clothing/66cbeae997e94e31ec92f82507632528.webp"
+    "primaryImage": "/assets/Female-clothing/66cbeae997e94e31ec92f82507632528.webp"
   },
   {
     "id": "prod_78",
@@ -75,9 +75,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/8f31796882abc90722705eaa33de0050.webp"
+      "/assets/workspace..gaming/8f31796882abc90722705eaa33de0050.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/8f31796882abc90722705eaa33de0050.webp"
+    "primaryImage": "/assets/workspace..gaming/8f31796882abc90722705eaa33de0050.webp"
   },
   {
     "id": "prod_27",
@@ -91,9 +91,9 @@
     "shortDescription": "Galaxy S23 Ultra with advanced camera, S Pen, and powerful performance.",
     "fullDescription": "<p>Galaxy S23 Ultra with advanced camera, S Pen, and powerful performance.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/gadgets/401752ed54ed762cfaccf66afab01cda.webp"
+      "/assets/gadgets/401752ed54ed762cfaccf66afab01cda.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/401752ed54ed762cfaccf66afab01cda.webp"
+    "primaryImage": "/assets/gadgets/401752ed54ed762cfaccf66afab01cda.webp"
   },
   {
     "id": "prod_10",
@@ -107,9 +107,9 @@
     "shortDescription": "Compact 4K UHD camcorder with 1.0-inch sensor, autofocus, and built-in ND filters.",
     "fullDescription": "<p>Sony's PXW-Z90 is a compact camcorder with a 1-inch Exmor RS CMOS sensor and Fast Hybrid Autofocus.</p><p>This camcorder offers 4K UHD resolution, 120fps slow-motion, and built-in ND filters for professional videography.</p>",
     "images": [
-      "/src/assets/cameraaccessories/f7c59467a2ee17d09c6adf8b4c5b0846.webp"
+      "/assets/cameraaccessories/f7c59467a2ee17d09c6adf8b4c5b0846.webp"
     ],
-    "primaryImage": "/src/assets/cameraaccessories/f7c59467a2ee17d09c6adf8b4c5b0846.webp"
+    "primaryImage": "/assets/cameraaccessories/f7c59467a2ee17d09c6adf8b4c5b0846.webp"
   },
   {
     "id": "prod_26",
@@ -123,9 +123,9 @@
     "shortDescription": "Apple's M2 chip for blazing-fast performance in a compact design.",
     "fullDescription": "<p>Apple's M2 chip for blazing-fast performance in a compact design.</p><p><strong>Key Features:</strong></p><ul><li>M2 chip with 8-core CPU and 10-core GPU</li><li>Stunning 13-inch Retina display</li><li>Up to 20 hours of battery life</li><li>Active cooling system for sustained performance</li><li>Touch Bar and Touch ID for productivity</li></ul>",
     "images": [
-      "/src/assets/gadgets/3fac2fd32bf710d04cba38cad069705d.webp"
+      "/assets/gadgets/3fac2fd32bf710d04cba38cad069705d.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/3fac2fd32bf710d04cba38cad069705d.webp"
+    "primaryImage": "/assets/gadgets/3fac2fd32bf710d04cba38cad069705d.webp"
   },
   {
     "id": "prod_45",
@@ -139,9 +139,9 @@
     "shortDescription": "Premium smartwatches with exceptional build quality and performance.",
     "fullDescription": "<p>Premium smartwatches with exceptional build quality and performance.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/gadgets/fc454503a16477d523eb7fd25b9144fe.webp"
+      "/assets/gadgets/fc454503a16477d523eb7fd25b9144fe.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/fc454503a16477d523eb7fd25b9144fe.webp"
+    "primaryImage": "/assets/gadgets/fc454503a16477d523eb7fd25b9144fe.webp"
   },
   {
     "id": "prod_63",
@@ -155,9 +155,9 @@
     "shortDescription": "Comfortable and stylish men's apparel suitable for casual outings.",
     "fullDescription": "<p>Comfortable and stylish men's apparel suitable for casual outings.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/male clothing/b141e3ce55324fca1225f90cddc00ade.webp"
+      "/assets/male clothing/b141e3ce55324fca1225f90cddc00ade.webp"
     ],
-    "primaryImage": "/src/assets/male clothing/b141e3ce55324fca1225f90cddc00ade.webp"
+    "primaryImage": "/assets/male clothing/b141e3ce55324fca1225f90cddc00ade.webp"
   },
   {
     "id": "prod_20",
@@ -171,9 +171,9 @@
     "shortDescription": "Vibrant pink and white abstract floral midi dress with a v-neck, puff sleeves, and tiered skirt.",
     "fullDescription": "<p>Vibrant pink and white abstract floral midi dress with a v-neck, puff sleeves, and tiered skirt.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/Female-clothing/c828ab95f0d7487f806f7a502a2486d5.webp"
+      "/assets/Female-clothing/c828ab95f0d7487f806f7a502a2486d5.webp"
     ],
-    "primaryImage": "/src/assets/Female-clothing/c828ab95f0d7487f806f7a502a2486d5.webp"
+    "primaryImage": "/assets/Female-clothing/c828ab95f0d7487f806f7a502a2486d5.webp"
   },
   {
     "id": "prod_50",
@@ -187,9 +187,9 @@
     "shortDescription": "Sophisticated gold-tone clover jewelry set featuring deep black onyx-style inserts.",
     "fullDescription": "<p>Sophisticated gold-tone clover jewelry set featuring deep black onyx-style inserts.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/jewelry/7ffea1f8b04c465ba619b059c1b71db9.webp"
+      "/assets/jewelry/7ffea1f8b04c465ba619b059c1b71db9.webp"
     ],
-    "primaryImage": "/src/assets/jewelry/7ffea1f8b04c465ba619b059c1b71db9.webp"
+    "primaryImage": "/assets/jewelry/7ffea1f8b04c465ba619b059c1b71db9.webp"
   },
   {
     "id": "prod_52",
@@ -203,9 +203,9 @@
     "shortDescription": "Large gold-tone jewelry set with intricate floral and leaf motifs, heavily encrusted with cubic zirconia.",
     "fullDescription": "<p>Large gold-tone jewelry set with intricate floral and leaf motifs, heavily encrusted with cubic zirconia.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/jewelry/bc24f121a880f99d053d3e52ee9a897d.webp"
+      "/assets/jewelry/bc24f121a880f99d053d3e52ee9a897d.webp"
     ],
-    "primaryImage": "/src/assets/jewelry/bc24f121a880f99d053d3e52ee9a897d.webp"
+    "primaryImage": "/assets/jewelry/bc24f121a880f99d053d3e52ee9a897d.webp"
   },
   {
     "id": "prod_90",
@@ -219,9 +219,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/fd79d7081b56c49b23e0bee8f931cadc.webp"
+      "/assets/workspace..gaming/fd79d7081b56c49b23e0bee8f931cadc.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/fd79d7081b56c49b23e0bee8f931cadc.webp"
+    "primaryImage": "/assets/workspace..gaming/fd79d7081b56c49b23e0bee8f931cadc.webp"
   },
   {
     "id": "prod_2",
@@ -235,9 +235,9 @@
     "shortDescription": "Fujifilm X-T5 mirrorless camera with silver body, custom denim grip wrap, and attached flash.",
     "fullDescription": "<p>Fujifilm X-T5 mirrorless camera with silver body, custom denim grip wrap, and attached flash.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/cameraaccessories/1053a45e1e78de25bbccfcbfcd147d92.webp"
+      "/assets/cameraaccessories/1053a45e1e78de25bbccfcbfcd147d92.webp"
     ],
-    "primaryImage": "/src/assets/cameraaccessories/1053a45e1e78de25bbccfcbfcd147d92.webp"
+    "primaryImage": "/assets/cameraaccessories/1053a45e1e78de25bbccfcbfcd147d92.webp"
   },
   {
     "id": "prod_55",
@@ -251,9 +251,9 @@
     "shortDescription": "Comfortable and stylish men's apparel suitable for casual outings.",
     "fullDescription": "<p>Comfortable and stylish men's apparel suitable for casual outings.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/male clothing/07c0f85b4a029bcc2daa2713f0a131b3.webp"
+      "/assets/male clothing/07c0f85b4a029bcc2daa2713f0a131b3.webp"
     ],
-    "primaryImage": "/src/assets/male clothing/07c0f85b4a029bcc2daa2713f0a131b3.webp"
+    "primaryImage": "/assets/male clothing/07c0f85b4a029bcc2daa2713f0a131b3.webp"
   },
   {
     "id": "prod_14",
@@ -267,9 +267,9 @@
     "shortDescription": "Elegant black halter-neck maxi dress featuring large, vibrant pink floral placements and ruched detailing.",
     "fullDescription": "<p>Elegant black halter-neck maxi dress featuring large, vibrant pink floral placements and ruched detailing.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/Female-clothing/476e47583cfcd9e2267abd8a8a6bc4ef.webp"
+      "/assets/Female-clothing/476e47583cfcd9e2267abd8a8a6bc4ef.webp"
     ],
-    "primaryImage": "/src/assets/Female-clothing/476e47583cfcd9e2267abd8a8a6bc4ef.webp"
+    "primaryImage": "/assets/Female-clothing/476e47583cfcd9e2267abd8a8a6bc4ef.webp"
   },
   {
     "id": "prod_23",
@@ -283,9 +283,9 @@
     "shortDescription": "Premium laptops with exceptional build quality and performance.",
     "fullDescription": "<p>Premium laptops with exceptional build quality and performance.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/gadgets/1a80024b3dbc82579b1a19832e7663c7.webp"
+      "/assets/gadgets/1a80024b3dbc82579b1a19832e7663c7.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/1a80024b3dbc82579b1a19832e7663c7.webp"
+    "primaryImage": "/assets/gadgets/1a80024b3dbc82579b1a19832e7663c7.webp"
   },
   {
     "id": "prod_8",
@@ -299,9 +299,9 @@
     "shortDescription": "Two-pack of 7.0V 2550mAh Lithium-ion replacement batteries for Nikon cameras.",
     "fullDescription": "<p>Two-pack of 7.0V 2550mAh Lithium-ion replacement batteries for Nikon cameras.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/cameraaccessories/ad44802b699f721461d36f208465ba84.webp"
+      "/assets/cameraaccessories/ad44802b699f721461d36f208465ba84.webp"
     ],
-    "primaryImage": "/src/assets/cameraaccessories/ad44802b699f721461d36f208465ba84.webp"
+    "primaryImage": "/assets/cameraaccessories/ad44802b699f721461d36f208465ba84.webp"
   },
   {
     "id": "prod_34",
@@ -315,9 +315,9 @@
     "shortDescription": "HP EliteBook 1040 G8 with premium build quality and performance.",
     "fullDescription": "<p>HP EliteBook 1040 G8 with premium build quality and performance.</p><p>Key Features:</p><ul><li>Premium build quality</li><li>Powerful processor</li><li>Stunning display</li><li>AI-powered camera</li><li>Long battery life</li><li>Water-resistant</li><li>GPS tracking</li><li>ECG app</li><li>Blood oxygen sensor</li><li>Sleep tracking</li><li>Fall detection</li><li>Emergency SOS</li></ul>",
     "images": [
-      "/src/assets/gadgets/60a6be1c6ded764c152542d7772dfaa5.webp"
+      "/assets/gadgets/60a6be1c6ded764c152542d7772dfaa5.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/60a6be1c6ded764c152542d7772dfaa5.webp"
+    "primaryImage": "/assets/gadgets/60a6be1c6ded764c152542d7772dfaa5.webp"
   },
   {
     "id": "prod_69",
@@ -331,9 +331,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/0bf6cf262143fdca580c2c3e0172f613.webp"
+      "/assets/workspace..gaming/0bf6cf262143fdca580c2c3e0172f613.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/0bf6cf262143fdca580c2c3e0172f613.webp"
+    "primaryImage": "/assets/workspace..gaming/0bf6cf262143fdca580c2c3e0172f613.webp"
   },
   {
     "id": "prod_44",
@@ -347,9 +347,9 @@
     "shortDescription": "Premium laptops with exceptional build quality and performance.",
     "fullDescription": "<p>Premium laptops with exceptional build quality and performance.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/gadgets/f5ce078e5112d477ba9edfbcc53d7870.webp"
+      "/assets/gadgets/f5ce078e5112d477ba9edfbcc53d7870.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/f5ce078e5112d477ba9edfbcc53d7870.webp"
+    "primaryImage": "/assets/gadgets/f5ce078e5112d477ba9edfbcc53d7870.webp"
   },
   {
     "id": "prod_75",
@@ -363,9 +363,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/63cbc2f3012f817d07237c50e8df1fa2.webp"
+      "/assets/workspace..gaming/63cbc2f3012f817d07237c50e8df1fa2.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/63cbc2f3012f817d07237c50e8df1fa2.webp"
+    "primaryImage": "/assets/workspace..gaming/63cbc2f3012f817d07237c50e8df1fa2.webp"
   },
   {
     "id": "prod_7",
@@ -379,9 +379,9 @@
     "shortDescription": "Sony a7 III mirrorless digital camera with 28-70mm lens and camera case.",
     "fullDescription": "<p>Sony a7 III mirrorless digital camera with 28-70mm lens and camera case.</p><p>Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/cameraaccessories/923d562c4c00887f5d65f505e31ab960.webp"
+      "/assets/cameraaccessories/923d562c4c00887f5d65f505e31ab960.webp"
     ],
-    "primaryImage": "/src/assets/cameraaccessories/923d562c4c00887f5d65f505e31ab960.webp"
+    "primaryImage": "/assets/cameraaccessories/923d562c4c00887f5d65f505e31ab960.webp"
   },
   {
     "id": "prod_19",
@@ -395,9 +395,9 @@
     "shortDescription": "Fitted brown mini slip dress with spaghetti straps and side ruched detailing.",
     "fullDescription": "<p>Fitted brown mini slip dress with spaghetti straps and side ruched detailing.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/Female-clothing/9c2ea86509a7452170dde87dcbb4de8c.webp"
+      "/assets/Female-clothing/9c2ea86509a7452170dde87dcbb4de8c.webp"
     ],
-    "primaryImage": "/src/assets/Female-clothing/9c2ea86509a7452170dde87dcbb4de8c.webp"
+    "primaryImage": "/assets/Female-clothing/9c2ea86509a7452170dde87dcbb4de8c.webp"
   },
   {
     "id": "prod_36",
@@ -411,9 +411,9 @@
     "shortDescription": "Premium smartwatches with exceptional build quality and performance.",
     "fullDescription": "<p>Premium smartwatches with exceptional build quality and performance.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/gadgets/bb00f3b3c336cb7eaff9d7036a3bb875.webp"
+      "/assets/gadgets/bb00f3b3c336cb7eaff9d7036a3bb875.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/bb00f3b3c336cb7eaff9d7036a3bb875.webp"
+    "primaryImage": "/assets/gadgets/bb00f3b3c336cb7eaff9d7036a3bb875.webp"
   },
   {
     "id": "prod_86",
@@ -427,9 +427,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/cc36082bc3b79cde57abb738da70a856.webp"
+      "/assets/workspace..gaming/cc36082bc3b79cde57abb738da70a856.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/cc36082bc3b79cde57abb738da70a856.webp"
+    "primaryImage": "/assets/workspace..gaming/cc36082bc3b79cde57abb738da70a856.webp"
   },
   {
     "id": "prod_56",
@@ -443,9 +443,9 @@
     "shortDescription": "Comfortable and stylish men's apparel suitable for casual outings.",
     "fullDescription": "<p>Comfortable and stylish men's apparel suitable for casual outings.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/male clothing/187f4d7c3452ee11b8fc14327510a3fa.webp"
+      "/assets/male clothing/187f4d7c3452ee11b8fc14327510a3fa.webp"
     ],
-    "primaryImage": "/src/assets/male clothing/187f4d7c3452ee11b8fc14327510a3fa.webp"
+    "primaryImage": "/assets/male clothing/187f4d7c3452ee11b8fc14327510a3fa.webp"
   },
   {
     "id": "prod_46",
@@ -459,9 +459,9 @@
     "shortDescription": "Premium headphones with exceptional build quality and performance.",
     "fullDescription": "<p>Premium headphones with exceptional build quality and performance.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/gadgets/ff402288c8c7a8ed5c210af56ae1af11.webp"
+      "/assets/gadgets/ff402288c8c7a8ed5c210af56ae1af11.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/ff402288c8c7a8ed5c210af56ae1af11.webp"
+    "primaryImage": "/assets/gadgets/ff402288c8c7a8ed5c210af56ae1af11.webp"
   },
   {
     "id": "prod_31",
@@ -475,9 +475,9 @@
     "shortDescription": "Apple Watch Series 10 with health monitoring and smart features.",
     "fullDescription": "<p>Apple Watch Series 10 with health monitoring and smart features.</p><p>Key Features:</p><ul><li>Health monitoring</li><li>Smart features</li><li>Long battery life</li><li>Water-resistant</li><li>GPS tracking</li><li>ECG app</li><li>Blood oxygen sensor</li><li>Sleep tracking</li><li>Fall detection</li><li>Emergency SOS</li></ul>",
     "images": [
-      "/src/assets/gadgets/55b581b61ac6742fc49bf3b8dfe2b797.webp"
+      "/assets/gadgets/55b581b61ac6742fc49bf3b8dfe2b797.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/55b581b61ac6742fc49bf3b8dfe2b797.webp"
+    "primaryImage": "/assets/gadgets/55b581b61ac6742fc49bf3b8dfe2b797.webp"
   },
   {
     "id": "prod_25",
@@ -491,9 +491,9 @@
     "shortDescription": "Samsung Galaxy S25 Ultra with AI-powered camera, Galaxy AI features, and titanium design.",
     "fullDescription": "<p>Samsung Galaxy S25 Ultra with AI-powered camera, Galaxy AI features, and titanium design.</p><p><strong>Key Features:</strong></p><ul><li>AI-powered camera with advanced computational photography</li><li>Galaxy AI features for intelligent assistance</li><li>Titanium design for premium feel and durability</li><li>Long-lasting battery with fast charging</li><li>Latest Android with 7 years of updates</li></ul>",
     "images": [
-      "/src/assets/gadgets/281d46a01352e23a12a1226b84b2b0cb.webp"
+      "/assets/gadgets/281d46a01352e23a12a1226b84b2b0cb.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/281d46a01352e23a12a1226b84b2b0cb.webp"
+    "primaryImage": "/assets/gadgets/281d46a01352e23a12a1226b84b2b0cb.webp"
   },
   {
     "id": "prod_41",
@@ -507,9 +507,9 @@
     "shortDescription": "Samsung Galaxy S25+ with premium build quality and performance.",
     "fullDescription": "<p>Samsung Galaxy S25+ with premium build quality and performance.</p><p>Key Features:</p><ul><li>Premium build quality</li><li>Powerful processor</li><li>Stunning display</li><li>AI-powered camera</li><li>Long battery life</li><li>Water-resistant</li><li>GPS tracking</li><li>ECG app</li><li>Blood oxygen sensor</li><li>Sleep tracking</li><li>Fall detection</li><li>Emergency SOS</li></ul>",
     "images": [
-      "/src/assets/gadgets/ea44d944dd625ca4c84148231dbed501.webp"
+      "/assets/gadgets/ea44d944dd625ca4c84148231dbed501.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/ea44d944dd625ca4c84148231dbed501.webp"
+    "primaryImage": "/assets/gadgets/ea44d944dd625ca4c84148231dbed501.webp"
   },
   {
     "id": "prod_72",
@@ -523,9 +523,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/2d608757caab038de8694e35c575e7fa.webp"
+      "/assets/workspace..gaming/2d608757caab038de8694e35c575e7fa.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/2d608757caab038de8694e35c575e7fa.webp"
+    "primaryImage": "/assets/workspace..gaming/2d608757caab038de8694e35c575e7fa.webp"
   },
   {
     "id": "prod_74",
@@ -539,9 +539,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/39b0a93c6ecc148cf510d985f348c194.webp"
+      "/assets/workspace..gaming/39b0a93c6ecc148cf510d985f348c194.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/39b0a93c6ecc148cf510d985f348c194.webp"
+    "primaryImage": "/assets/workspace..gaming/39b0a93c6ecc148cf510d985f348c194.webp"
   },
   {
     "id": "prod_3",
@@ -555,9 +555,9 @@
     "shortDescription": "Professional 3-axis camera gimbal by DJI, shown supporting a Canon DSLR setup.",
     "fullDescription": "<p>Professional 3-axis camera gimbal by DJI, shown supporting a Canon DSLR setup.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/cameraaccessories/27f78264f9ac9982ea89978c7e5ed601.webp"
+      "/assets/cameraaccessories/27f78264f9ac9982ea89978c7e5ed601.webp"
     ],
-    "primaryImage": "/src/assets/cameraaccessories/27f78264f9ac9982ea89978c7e5ed601.webp"
+    "primaryImage": "/assets/cameraaccessories/27f78264f9ac9982ea89978c7e5ed601.webp"
   },
   {
     "id": "prod_58",
@@ -571,9 +571,9 @@
     "shortDescription": "Comfortable and stylish men's apparel suitable for casual outings.",
     "fullDescription": "<p>Comfortable and stylish men's apparel suitable for casual outings.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/male clothing/72663d7dfe3e020701863d94bf1d8aef.webp"
+      "/assets/male clothing/72663d7dfe3e020701863d94bf1d8aef.webp"
     ],
-    "primaryImage": "/src/assets/male clothing/72663d7dfe3e020701863d94bf1d8aef.webp"
+    "primaryImage": "/assets/male clothing/72663d7dfe3e020701863d94bf1d8aef.webp"
   },
   {
     "id": "prod_64",
@@ -587,9 +587,9 @@
     "shortDescription": "Comfortable and stylish men's apparel suitable for casual outings.",
     "fullDescription": "<p>Comfortable and stylish men's apparel suitable for casual outings.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/male clothing/c9ce3a523f980ef7ef754b4c316c4a2b.webp"
+      "/assets/male clothing/c9ce3a523f980ef7ef754b4c316c4a2b.webp"
     ],
-    "primaryImage": "/src/assets/male clothing/c9ce3a523f980ef7ef754b4c316c4a2b.webp"
+    "primaryImage": "/assets/male clothing/c9ce3a523f980ef7ef754b4c316c4a2b.webp"
   },
   {
     "id": "prod_47",
@@ -603,9 +603,9 @@
     "shortDescription": "A stunning gold-tone jewelry set featuring teardrop and diamond-shaped crystals. Includes necklace, earrings, bracelet, and ring.",
     "fullDescription": "<p>A stunning gold-tone jewelry set featuring teardrop and diamond-shaped crystals. Includes necklace, earrings, bracelet, and ring.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/jewelry/29e10b0937fc5681248df27b81df75b0.webp"
+      "/assets/jewelry/29e10b0937fc5681248df27b81df75b0.webp"
     ],
-    "primaryImage": "/src/assets/jewelry/29e10b0937fc5681248df27b81df75b0.webp"
+    "primaryImage": "/assets/jewelry/29e10b0937fc5681248df27b81df75b0.webp"
   },
   {
     "id": "prod_53",
@@ -619,9 +619,9 @@
     "shortDescription": "A trio of delicate gold-tone bracelets featuring clover motifs in red, white, and pink enamel.",
     "fullDescription": "<p>A trio of delicate gold-tone bracelets featuring clover motifs in red, white, and pink enamel.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/jewelry/d0118d8d414032a0614fcf81b093b95d.webp"
+      "/assets/jewelry/d0118d8d414032a0614fcf81b093b95d.webp"
     ],
-    "primaryImage": "/src/assets/jewelry/d0118d8d414032a0614fcf81b093b95d.webp"
+    "primaryImage": "/assets/jewelry/d0118d8d414032a0614fcf81b093b95d.webp"
   },
   {
     "id": "prod_96",
@@ -635,9 +635,9 @@
     "shortDescription": "High-quality adult wellness product for personal intimacy.",
     "fullDescription": "<p>High-quality adult wellness product for personal intimacy.</p><p>Crafted from premium, body-safe materials for maximum comfort and durability.</p>",
     "images": [
-      "/src/assets/sex-toys/pocket pussy.webp"
+      "/assets/sex-toys/pocket pussy.webp"
     ],
-    "primaryImage": "/src/assets/sex-toys/pocket pussy.webp"
+    "primaryImage": "/assets/sex-toys/pocket pussy.webp"
   },
   {
     "id": "prod_79",
@@ -651,9 +651,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/9ab5a34ded9016e1d7fe651210d517fe.webp"
+      "/assets/workspace..gaming/9ab5a34ded9016e1d7fe651210d517fe.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/9ab5a34ded9016e1d7fe651210d517fe.webp"
+    "primaryImage": "/assets/workspace..gaming/9ab5a34ded9016e1d7fe651210d517fe.webp"
   },
   {
     "id": "prod_28",
@@ -667,9 +667,9 @@
     "shortDescription": "Samsung Galaxy Buds Core Preto SM-R410 with AKG-tuned audio and comfortable design.",
     "fullDescription": "<p>Samsung Galaxy Buds Core Preto SM-R410 with AKG-tuned audio and comfortable design.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/gadgets/4e06e7f0a007969d8a546f04e8f828c9.webp"
+      "/assets/gadgets/4e06e7f0a007969d8a546f04e8f828c9.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/4e06e7f0a007969d8a546f04e8f828c9.webp"
+    "primaryImage": "/assets/gadgets/4e06e7f0a007969d8a546f04e8f828c9.webp"
   },
   {
     "id": "prod_1",
@@ -683,9 +683,9 @@
     "shortDescription": "Standard battery charger for Canon camera batteries with charge indicator lights.",
     "fullDescription": "<p>Standard battery charger for Canon camera batteries with charge indicator lights.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/cameraaccessories/069e81c5a0ea9b2d0c35aef675389589.webp"
+      "/assets/cameraaccessories/069e81c5a0ea9b2d0c35aef675389589.webp"
     ],
-    "primaryImage": "/src/assets/cameraaccessories/069e81c5a0ea9b2d0c35aef675389589.webp"
+    "primaryImage": "/assets/cameraaccessories/069e81c5a0ea9b2d0c35aef675389589.webp"
   },
   {
     "id": "prod_62",
@@ -699,9 +699,9 @@
     "shortDescription": "Comfortable and stylish men's apparel suitable for casual outings.",
     "fullDescription": "<p>Comfortable and stylish men's apparel suitable for casual outings.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/male clothing/a4fed5b2fd2b5772640f193473453f2e.webp"
+      "/assets/male clothing/a4fed5b2fd2b5772640f193473453f2e.webp"
     ],
-    "primaryImage": "/src/assets/male clothing/a4fed5b2fd2b5772640f193473453f2e.webp"
+    "primaryImage": "/assets/male clothing/a4fed5b2fd2b5772640f193473453f2e.webp"
   },
   {
     "id": "prod_81",
@@ -715,9 +715,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/a1a498841c705006fccfeb1be2103a18.webp"
+      "/assets/workspace..gaming/a1a498841c705006fccfeb1be2103a18.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/a1a498841c705006fccfeb1be2103a18.webp"
+    "primaryImage": "/assets/workspace..gaming/a1a498841c705006fccfeb1be2103a18.webp"
   },
   {
     "id": "prod_76",
@@ -731,9 +731,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/683d765effc267f26cf08364a24f928a.webp"
+      "/assets/workspace..gaming/683d765effc267f26cf08364a24f928a.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/683d765effc267f26cf08364a24f928a.webp"
+    "primaryImage": "/assets/workspace..gaming/683d765effc267f26cf08364a24f928a.webp"
   },
   {
     "id": "prod_54",
@@ -747,9 +747,9 @@
     "shortDescription": "Dainty gold-tone jewelry set with star and flower crystal designs. Perfect for everyday elegance.",
     "fullDescription": "<p>Dainty gold-tone jewelry set with star and flower crystal designs. Perfect for everyday elegance.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/jewelry/e81f4102d9273dcc44fd5552a9cef40a.webp"
+      "/assets/jewelry/e81f4102d9273dcc44fd5552a9cef40a.webp"
     ],
-    "primaryImage": "/src/assets/jewelry/e81f4102d9273dcc44fd5552a9cef40a.webp"
+    "primaryImage": "/assets/jewelry/e81f4102d9273dcc44fd5552a9cef40a.webp"
   },
   {
     "id": "prod_13",
@@ -763,9 +763,9 @@
     "shortDescription": "Soft pink short-sleeve romper with a textured cable-knit pattern, button front, and tie belt.",
     "fullDescription": "<p>Soft pink short-sleeve romper with a textured cable-knit pattern, button front, and tie belt.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/Female-clothing/28008aec9dcb1ab66a92459e041452dd.webp"
+      "/assets/Female-clothing/28008aec9dcb1ab66a92459e041452dd.webp"
     ],
-    "primaryImage": "/src/assets/Female-clothing/28008aec9dcb1ab66a92459e041452dd.webp"
+    "primaryImage": "/assets/Female-clothing/28008aec9dcb1ab66a92459e041452dd.webp"
   },
   {
     "id": "prod_80",
@@ -779,9 +779,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/9b85c648ae45432d69ce123d40400e91.webp"
+      "/assets/workspace..gaming/9b85c648ae45432d69ce123d40400e91.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/9b85c648ae45432d69ce123d40400e91.webp"
+    "primaryImage": "/assets/workspace..gaming/9b85c648ae45432d69ce123d40400e91.webp"
   },
   {
     "id": "prod_29",
@@ -795,9 +795,9 @@
     "shortDescription": "Premium true wireless earbuds with active noise cancellation and long battery life.",
     "fullDescription": "<p>Samsung Galaxy Buds 3 with premium true wireless earbuds with active noise cancellation and long battery life.</p><p>Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/gadgets/4eac6787f2dd090e7de43c794f791dfd.webp"
+      "/assets/gadgets/4eac6787f2dd090e7de43c794f791dfd.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/4eac6787f2dd090e7de43c794f791dfd.webp"
+    "primaryImage": "/assets/gadgets/4eac6787f2dd090e7de43c794f791dfd.webp"
   },
   {
     "id": "prod_59",
@@ -811,9 +811,9 @@
     "shortDescription": "Comfortable and stylish men's apparel suitable for casual outings.",
     "fullDescription": "<p>Comfortable and stylish men's apparel suitable for casual outings.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/male clothing/7d2017c9ef0e484e0ae15bdc54f26285.webp"
+      "/assets/male clothing/7d2017c9ef0e484e0ae15bdc54f26285.webp"
     ],
-    "primaryImage": "/src/assets/male clothing/7d2017c9ef0e484e0ae15bdc54f26285.webp"
+    "primaryImage": "/assets/male clothing/7d2017c9ef0e484e0ae15bdc54f26285.webp"
   },
   {
     "id": "prod_91",
@@ -827,9 +827,9 @@
     "shortDescription": "High-quality adult wellness product for personal intimacy.",
     "fullDescription": "<p>High-quality adult wellness product for personal intimacy.</p><p>Crafted from premium, body-safe materials for maximum comfort and durability.</p>",
     "images": [
-      "/src/assets/sex-toys/9 inch sex doll.webp"
+      "/assets/sex-toys/9 inch sex doll.webp"
     ],
-    "primaryImage": "/src/assets/sex-toys/9 inch sex doll.webp"
+    "primaryImage": "/assets/sex-toys/9 inch sex doll.webp"
   },
   {
     "id": "prod_89",
@@ -843,9 +843,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/e8f8ca4032fce7de94176c8f2c22e294.webp"
+      "/assets/workspace..gaming/e8f8ca4032fce7de94176c8f2c22e294.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/e8f8ca4032fce7de94176c8f2c22e294.webp"
+    "primaryImage": "/assets/workspace..gaming/e8f8ca4032fce7de94176c8f2c22e294.webp"
   },
   {
     "id": "prod_6",
@@ -859,9 +859,9 @@
     "shortDescription": "Compact and foldable DJI Mini 2 drone with remote controller.",
     "fullDescription": "<p>Compact and foldable DJI Mini 2 drone with remote controller.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/cameraaccessories/8194b5bd4cf0bff89b8667405f20cb57.webp"
+      "/assets/cameraaccessories/8194b5bd4cf0bff89b8667405f20cb57.webp"
     ],
-    "primaryImage": "/src/assets/cameraaccessories/8194b5bd4cf0bff89b8667405f20cb57.webp"
+    "primaryImage": "/assets/cameraaccessories/8194b5bd4cf0bff89b8667405f20cb57.webp"
   },
   {
     "id": "prod_87",
@@ -875,9 +875,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/d0155e1ad361723857b4b73a3c8fea64.webp"
+      "/assets/workspace..gaming/d0155e1ad361723857b4b73a3c8fea64.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/d0155e1ad361723857b4b73a3c8fea64.webp"
+    "primaryImage": "/assets/workspace..gaming/d0155e1ad361723857b4b73a3c8fea64.webp"
   },
   {
     "id": "prod_21",
@@ -891,9 +891,9 @@
     "shortDescription": "Google Pixel 10 Pro with next-gen AI, Tensor G4 chip, and advanced camera system.",
     "fullDescription": "<p>Experience the power of Google AI with the Pixel 10 Pro, featuring a stunning 6.7-inch OLED display, advanced triple-camera system with AI-powered computational photography, and all-day battery life.</p><p><strong>Key Features:</strong></p><ul><li>6.7-inch OLED display with 120Hz refresh rate</li><li>Advanced triple-camera system with AI-powered computational photography</li><li>Tensor G4 chip for seamless AI performance</li><li>All-day battery life with fast charging</li><li>Latest Android with 7 years of updates</li></ul>",
     "images": [
-      "/src/assets/gadgets/06c9c6a9600a40c0cfc8ef69c332b98a.webp"
+      "/assets/gadgets/06c9c6a9600a40c0cfc8ef69c332b98a.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/06c9c6a9600a40c0cfc8ef69c332b98a.webp"
+    "primaryImage": "/assets/gadgets/06c9c6a9600a40c0cfc8ef69c332b98a.webp"
   },
   {
     "id": "prod_77",
@@ -907,9 +907,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/80b403b82acf128ef654a68b70873273.webp"
+      "/assets/workspace..gaming/80b403b82acf128ef654a68b70873273.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/80b403b82acf128ef654a68b70873273.webp"
+    "primaryImage": "/assets/workspace..gaming/80b403b82acf128ef654a68b70873273.webp"
   },
   {
     "id": "prod_57",
@@ -923,9 +923,9 @@
     "shortDescription": "Comfortable and stylish men's apparel suitable for casual outings.",
     "fullDescription": "<p>Comfortable and stylish men's apparel suitable for casual outings.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/male clothing/2696e293f4d3728eeed7db8518858fc5.webp"
+      "/assets/male clothing/2696e293f4d3728eeed7db8518858fc5.webp"
     ],
-    "primaryImage": "/src/assets/male clothing/2696e293f4d3728eeed7db8518858fc5.webp"
+    "primaryImage": "/assets/male clothing/2696e293f4d3728eeed7db8518858fc5.webp"
   },
   {
     "id": "prod_94",
@@ -939,9 +939,9 @@
     "shortDescription": "High-quality adult wellness product for personal intimacy.",
     "fullDescription": "<p>High-quality adult wellness product for personal intimacy.</p><p>Crafted from premium, body-safe materials for maximum comfort and durability.</p>",
     "images": [
-      "/src/assets/sex-toys/dildo.webp"
+      "/assets/sex-toys/dildo.webp"
     ],
-    "primaryImage": "/src/assets/sex-toys/dildo.webp"
+    "primaryImage": "/assets/sex-toys/dildo.webp"
   },
   {
     "id": "prod_68",
@@ -955,9 +955,9 @@
     "shortDescription": "Comfortable and stylish men's apparel suitable for casual outings.",
     "fullDescription": "<p>Comfortable and stylish men's apparel suitable for casual outings.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/male clothing/fb4f2d323b9e02dbfcc919a1aad0c5c3.webp"
+      "/assets/male clothing/fb4f2d323b9e02dbfcc919a1aad0c5c3.webp"
     ],
-    "primaryImage": "/src/assets/male clothing/fb4f2d323b9e02dbfcc919a1aad0c5c3.webp"
+    "primaryImage": "/assets/male clothing/fb4f2d323b9e02dbfcc919a1aad0c5c3.webp"
   },
   {
     "id": "prod_88",
@@ -971,9 +971,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/e48714e41be69995e11992d53513e804.webp"
+      "/assets/workspace..gaming/e48714e41be69995e11992d53513e804.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/e48714e41be69995e11992d53513e804.webp"
+    "primaryImage": "/assets/workspace..gaming/e48714e41be69995e11992d53513e804.webp"
   },
   {
     "id": "prod_61",
@@ -987,9 +987,9 @@
     "shortDescription": "Comfortable and stylish men's apparel suitable for casual outings.",
     "fullDescription": "<p>Comfortable and stylish men's apparel suitable for casual outings.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/male clothing/99bc8b8a51f27f615af270dff3e22a51.webp"
+      "/assets/male clothing/99bc8b8a51f27f615af270dff3e22a51.webp"
     ],
-    "primaryImage": "/src/assets/male clothing/99bc8b8a51f27f615af270dff3e22a51.webp"
+    "primaryImage": "/assets/male clothing/99bc8b8a51f27f615af270dff3e22a51.webp"
   },
   {
     "id": "prod_37",
@@ -1003,9 +1003,9 @@
     "shortDescription": "Premium smartwatches with exceptional build quality and performance.",
     "fullDescription": "<p>Premium smartwatches with exceptional build quality and performance.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/gadgets/c393a7fe31728cc188d363f2dff44e93.webp"
+      "/assets/gadgets/c393a7fe31728cc188d363f2dff44e93.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/c393a7fe31728cc188d363f2dff44e93.webp"
+    "primaryImage": "/assets/gadgets/c393a7fe31728cc188d363f2dff44e93.webp"
   },
   {
     "id": "prod_33",
@@ -1019,9 +1019,9 @@
     "shortDescription": "Oraimo Spacebuds 2 with ANC and long battery life.",
     "fullDescription": "<p>Oraimo Spacebuds 2 with ANC and long battery life.</p><p>Key Features:</p><ul><li>ANC</li><li>Long battery life</li><li>Water-resistant</li><li>GPS tracking</li><li>ECG app</li><li>Blood oxygen sensor</li><li>Sleep tracking</li><li>Fall detection</li><li>Emergency SOS</li></ul>",
     "images": [
-      "/src/assets/gadgets/5d7a01bcbe48b1cf9d3ea7611661f18b.webp"
+      "/assets/gadgets/5d7a01bcbe48b1cf9d3ea7611661f18b.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/5d7a01bcbe48b1cf9d3ea7611661f18b.webp"
+    "primaryImage": "/assets/gadgets/5d7a01bcbe48b1cf9d3ea7611661f18b.webp"
   },
   {
     "id": "prod_95",
@@ -1035,9 +1035,9 @@
     "shortDescription": "High-quality adult wellness product for personal intimacy.",
     "fullDescription": "<p>High-quality adult wellness product for personal intimacy.</p><p>Crafted from premium, body-safe materials for maximum comfort and durability.</p>",
     "images": [
-      "/src/assets/sex-toys/male masturbator.webp"
+      "/assets/sex-toys/male masturbator.webp"
     ],
-    "primaryImage": "/src/assets/sex-toys/male masturbator.webp"
+    "primaryImage": "/assets/sex-toys/male masturbator.webp"
   },
   {
     "id": "prod_51",
@@ -1051,9 +1051,9 @@
     "shortDescription": "Classic Rolex Datejust featuring a striking blue dial, date window, and signature silver Jubilee band.",
     "fullDescription": "<p>Classic Rolex Datejust featuring a striking blue dial, date window, and signature silver Jubilee band.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/jewelry/b888c355bdf2879b75a9548d5224d0df.webp"
+      "/assets/jewelry/b888c355bdf2879b75a9548d5224d0df.webp"
     ],
-    "primaryImage": "/src/assets/jewelry/b888c355bdf2879b75a9548d5224d0df.webp"
+    "primaryImage": "/assets/jewelry/b888c355bdf2879b75a9548d5224d0df.webp"
   },
   {
     "id": "prod_82",
@@ -1067,9 +1067,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/bcab3fa06ecf97a4457de5c7bf62f6ba.webp"
+      "/assets/workspace..gaming/bcab3fa06ecf97a4457de5c7bf62f6ba.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/bcab3fa06ecf97a4457de5c7bf62f6ba.webp"
+    "primaryImage": "/assets/workspace..gaming/bcab3fa06ecf97a4457de5c7bf62f6ba.webp"
   },
   {
     "id": "prod_67",
@@ -1083,9 +1083,9 @@
     "shortDescription": "Comfortable and stylish men's apparel suitable for casual outings.",
     "fullDescription": "<p>Comfortable and stylish men's apparel suitable for casual outings.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/male clothing/f48dbca5a77bdb3b8752dc7d0dd13d54.webp"
+      "/assets/male clothing/f48dbca5a77bdb3b8752dc7d0dd13d54.webp"
     ],
-    "primaryImage": "/src/assets/male clothing/f48dbca5a77bdb3b8752dc7d0dd13d54.webp"
+    "primaryImage": "/assets/male clothing/f48dbca5a77bdb3b8752dc7d0dd13d54.webp"
   },
   {
     "id": "prod_5",
@@ -1099,9 +1099,9 @@
     "shortDescription": "Canon EOS 750D DSLR camera with 18-55mm kit lens and pop-up flash engaged.",
     "fullDescription": "<p>Canon EOS 750D DSLR camera with 18-55mm kit lens and pop-up flash engaged.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/cameraaccessories/66d0097732e2c225e1bc1efe84357d56.webp"
+      "/assets/cameraaccessories/66d0097732e2c225e1bc1efe84357d56.webp"
     ],
-    "primaryImage": "/src/assets/cameraaccessories/66d0097732e2c225e1bc1efe84357d56.webp"
+    "primaryImage": "/assets/cameraaccessories/66d0097732e2c225e1bc1efe84357d56.webp"
   },
   {
     "id": "prod_22",
@@ -1115,9 +1115,9 @@
     "shortDescription": "Premium headphones with exceptional build quality and performance.",
     "fullDescription": "<p>Premium headphones with exceptional build quality and performance.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/gadgets/1057fdd088ee718e32bdbf0a517a6c05.webp"
+      "/assets/gadgets/1057fdd088ee718e32bdbf0a517a6c05.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/1057fdd088ee718e32bdbf0a517a6c05.webp"
+    "primaryImage": "/assets/gadgets/1057fdd088ee718e32bdbf0a517a6c05.webp"
   },
   {
     "id": "prod_35",
@@ -1131,9 +1131,9 @@
     "shortDescription": "Samsung Galaxy Watch 5 Pro with premium build quality and performance.",
     "fullDescription": "<p>Samsung Galaxy Watch 5 Pro with premium build quality and performance.</p><p>Key Features:</p><ul><li>Premium build quality</li><li>Powerful processor</li><li>Stunning display</li><li>AI-powered camera</li><li>Long battery life</li><li>Water-resistant</li><li>GPS tracking</li><li>ECG app</li><li>Blood oxygen sensor</li><li>Sleep tracking</li><li>Fall detection</li><li>Emergency SOS</li></ul>",
     "images": [
-      "/src/assets/gadgets/6437ef702c773031165121c95dcf61b8.webp"
+      "/assets/gadgets/6437ef702c773031165121c95dcf61b8.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/6437ef702c773031165121c95dcf61b8.webp"
+    "primaryImage": "/assets/gadgets/6437ef702c773031165121c95dcf61b8.webp"
   },
   {
     "id": "prod_84",
@@ -1147,9 +1147,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/c41bcd38a5376dc62aef2b4fe61fe92f.webp"
+      "/assets/workspace..gaming/c41bcd38a5376dc62aef2b4fe61fe92f.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/c41bcd38a5376dc62aef2b4fe61fe92f.webp"
+    "primaryImage": "/assets/workspace..gaming/c41bcd38a5376dc62aef2b4fe61fe92f.webp"
   },
   {
     "id": "prod_11",
@@ -1163,9 +1163,9 @@
     "shortDescription": "Brown and beige horizontally striped knit short-sleeve romper with a collared neckline.",
     "fullDescription": "<p>Brown and beige horizontally striped knit short-sleeve romper with a collared neckline.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/Female-clothing/19c35f97afabcd80adf4b11a22e3c0ce.webp"
+      "/assets/Female-clothing/19c35f97afabcd80adf4b11a22e3c0ce.webp"
     ],
-    "primaryImage": "/src/assets/Female-clothing/19c35f97afabcd80adf4b11a22e3c0ce.webp"
+    "primaryImage": "/assets/Female-clothing/19c35f97afabcd80adf4b11a22e3c0ce.webp"
   },
   {
     "id": "prod_18",
@@ -1179,9 +1179,9 @@
     "shortDescription": "Wide-leg sleeveless denim jumpsuit featuring a lapel collar, double-breasted buttons, and a matching D-ring belt.",
     "fullDescription": "<p>Wide-leg sleeveless denim jumpsuit featuring a lapel collar, double-breasted buttons, and a matching D-ring belt.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/Female-clothing/7c01524642a5b35be18a4e65735d8c69.webp"
+      "/assets/Female-clothing/7c01524642a5b35be18a4e65735d8c69.webp"
     ],
-    "primaryImage": "/src/assets/Female-clothing/7c01524642a5b35be18a4e65735d8c69.webp"
+    "primaryImage": "/assets/Female-clothing/7c01524642a5b35be18a4e65735d8c69.webp"
   },
   {
     "id": "prod_16",
@@ -1195,9 +1195,9 @@
     "shortDescription": "Delicate light blue mini dress with a white ditsy floral print, v-neckline, and ruffled hem.",
     "fullDescription": "<p>Delicate light blue mini dress with a white ditsy floral print, v-neckline, and ruffled hem.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/Female-clothing/66f507731612691016527103ca343905.webp"
+      "/assets/Female-clothing/66f507731612691016527103ca343905.webp"
     ],
-    "primaryImage": "/src/assets/Female-clothing/66f507731612691016527103ca343905.webp"
+    "primaryImage": "/assets/Female-clothing/66f507731612691016527103ca343905.webp"
   },
   {
     "id": "prod_70",
@@ -1211,9 +1211,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/0cce6f93964db58ca0e60953239b0800.webp"
+      "/assets/workspace..gaming/0cce6f93964db58ca0e60953239b0800.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/0cce6f93964db58ca0e60953239b0800.webp"
+    "primaryImage": "/assets/workspace..gaming/0cce6f93964db58ca0e60953239b0800.webp"
   },
   {
     "id": "prod_71",
@@ -1227,9 +1227,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/1c42099caad4515f9f9e9cc8a4166ef4.webp"
+      "/assets/workspace..gaming/1c42099caad4515f9f9e9cc8a4166ef4.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/1c42099caad4515f9f9e9cc8a4166ef4.webp"
+    "primaryImage": "/assets/workspace..gaming/1c42099caad4515f9f9e9cc8a4166ef4.webp"
   },
   {
     "id": "prod_85",
@@ -1243,9 +1243,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/c87c75b8ce4536f8c789e369cd088266.webp"
+      "/assets/workspace..gaming/c87c75b8ce4536f8c789e369cd088266.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/c87c75b8ce4536f8c789e369cd088266.webp"
+    "primaryImage": "/assets/workspace..gaming/c87c75b8ce4536f8c789e369cd088266.webp"
   },
   {
     "id": "prod_93",
@@ -1259,9 +1259,9 @@
     "shortDescription": "High-quality adult wellness product for personal intimacy.",
     "fullDescription": "<p>High-quality adult wellness product for personal intimacy.</p><p>Crafted from premium, body-safe materials for maximum comfort and durability.</p>",
     "images": [
-      "/src/assets/sex-toys/dildo 3.webp"
+      "/assets/sex-toys/dildo 3.webp"
     ],
-    "primaryImage": "/src/assets/sex-toys/dildo 3.webp"
+    "primaryImage": "/assets/sex-toys/dildo 3.webp"
   },
   {
     "id": "prod_38",
@@ -1275,9 +1275,9 @@
     "shortDescription": "Premium headphones with exceptional build quality and performance.",
     "fullDescription": "<p>Premium headphones with exceptional build quality and performance.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/gadgets/c760b6cd48aea01518071b4ca0e61626.webp"
+      "/assets/gadgets/c760b6cd48aea01518071b4ca0e61626.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/c760b6cd48aea01518071b4ca0e61626.webp"
+    "primaryImage": "/assets/gadgets/c760b6cd48aea01518071b4ca0e61626.webp"
   },
   {
     "id": "prod_12",
@@ -1291,9 +1291,9 @@
     "shortDescription": "Chic olive green two-piece set featuring a tie-back crop top with flutter sleeves and wide-leg trousers.",
     "fullDescription": "<p>Chic olive green two-piece set featuring a tie-back crop top with flutter sleeves and wide-leg trousers.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/Female-clothing/23ed4fa40a07495ed8b59e5187e4ae92.webp"
+      "/assets/Female-clothing/23ed4fa40a07495ed8b59e5187e4ae92.webp"
     ],
-    "primaryImage": "/src/assets/Female-clothing/23ed4fa40a07495ed8b59e5187e4ae92.webp"
+    "primaryImage": "/assets/Female-clothing/23ed4fa40a07495ed8b59e5187e4ae92.webp"
   },
   {
     "id": "prod_4",
@@ -1307,9 +1307,9 @@
     "shortDescription": "7.2V 2000mAh Lithium-ion battery pack for Olympus cameras.",
     "fullDescription": "<p>7.2V 2000mAh Lithium-ion battery pack for Olympus cameras.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/cameraaccessories/38b307ac60f7e3f2f34eb1bfc458b5bd.webp"
+      "/assets/cameraaccessories/38b307ac60f7e3f2f34eb1bfc458b5bd.webp"
     ],
-    "primaryImage": "/src/assets/cameraaccessories/38b307ac60f7e3f2f34eb1bfc458b5bd.webp"
+    "primaryImage": "/assets/cameraaccessories/38b307ac60f7e3f2f34eb1bfc458b5bd.webp"
   },
   {
     "id": "prod_39",
@@ -1323,9 +1323,9 @@
     "shortDescription": "Premium smartphones with exceptional build quality and performance.",
     "fullDescription": "<p>Premium smartphones with exceptional build quality and performance.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/gadgets/d51b0d8826063f245dc38e9ff6c5c263.webp"
+      "/assets/gadgets/d51b0d8826063f245dc38e9ff6c5c263.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/d51b0d8826063f245dc38e9ff6c5c263.webp"
+    "primaryImage": "/assets/gadgets/d51b0d8826063f245dc38e9ff6c5c263.webp"
   },
   {
     "id": "prod_9",
@@ -1339,9 +1339,9 @@
     "shortDescription": "7.2V 1040mAh Lithium-ion battery pack for Canon EOS cameras.",
     "fullDescription": "<p>7.2V 1040mAh Lithium-ion battery pack for Canon EOS cameras.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/cameraaccessories/b90671451fdf6edeeb7549812367ebe7.webp"
+      "/assets/cameraaccessories/b90671451fdf6edeeb7549812367ebe7.webp"
     ],
-    "primaryImage": "/src/assets/cameraaccessories/b90671451fdf6edeeb7549812367ebe7.webp"
+    "primaryImage": "/assets/cameraaccessories/b90671451fdf6edeeb7549812367ebe7.webp"
   },
   {
     "id": "prod_32",
@@ -1355,9 +1355,9 @@
     "shortDescription": "Samsung Galaxy Watch 5 with health monitoring and smart features.",
     "fullDescription": "<p>Samsung Galaxy Watch 5 with health monitoring and smart features.</p><p>Key Features:</p><ul><li>Health monitoring</li><li>Smart features</li><li>Long battery life</li><li>Water-resistant</li><li>GPS tracking</li><li>ECG app</li><li>Blood oxygen sensor</li><li>Sleep tracking</li><li>Fall detection</li><li>Emergency SOS</li></ul>",
     "images": [
-      "/src/assets/gadgets/5c7e7699fa89d17b05f26768729d7472.webp"
+      "/assets/gadgets/5c7e7699fa89d17b05f26768729d7472.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/5c7e7699fa89d17b05f26768729d7472.webp"
+    "primaryImage": "/assets/gadgets/5c7e7699fa89d17b05f26768729d7472.webp"
   },
   {
     "id": "prod_40",
@@ -1371,9 +1371,9 @@
     "shortDescription": "Premium smartwatches with exceptional build quality and performance.",
     "fullDescription": "<p>Premium smartwatches with exceptional build quality and performance.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/gadgets/e77b3011011f8df44bd5c4acecf7475b.webp"
+      "/assets/gadgets/e77b3011011f8df44bd5c4acecf7475b.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/e77b3011011f8df44bd5c4acecf7475b.webp"
+    "primaryImage": "/assets/gadgets/e77b3011011f8df44bd5c4acecf7475b.webp"
   },
   {
     "id": "prod_49",
@@ -1387,9 +1387,9 @@
     "shortDescription": "Gold-tone clover jewelry set with delicate white mother-of-pearl inserts.",
     "fullDescription": "<p>Gold-tone clover jewelry set with delicate white mother-of-pearl inserts.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/jewelry/4a064985ed736d5c8ac949b8d9e9358f.webp"
+      "/assets/jewelry/4a064985ed736d5c8ac949b8d9e9358f.webp"
     ],
-    "primaryImage": "/src/assets/jewelry/4a064985ed736d5c8ac949b8d9e9358f.webp"
+    "primaryImage": "/assets/jewelry/4a064985ed736d5c8ac949b8d9e9358f.webp"
   },
   {
     "id": "prod_83",
@@ -1403,9 +1403,9 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/c0af119bb53b4b33d3ccca3560c3d53e.webp"
+      "/assets/workspace..gaming/c0af119bb53b4b33d3ccca3560c3d53e.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/c0af119bb53b4b33d3ccca3560c3d53e.webp"
+    "primaryImage": "/assets/workspace..gaming/c0af119bb53b4b33d3ccca3560c3d53e.webp"
   },
   {
     "id": "prod_24",
@@ -1419,9 +1419,9 @@
     "shortDescription": "Samsung Galaxy Watch 8 with advanced health tracking and seamless ecosystem integration.",
     "fullDescription": "<p>Samsung Galaxy Watch 8 with advanced health tracking and seamless ecosystem integration.</p><p><strong>Key Features:</strong></p><ul><li>Advanced health tracking with ECG and body composition analysis</li><li>Seamless ecosystem integration with Galaxy devices</li><li>AMOLED display with always-on functionality</li><li>Long-lasting battery with fast charging</li><li>Durable design with water resistance</li></ul>",
     "images": [
-      "/src/assets/gadgets/21991185afc695e13daf8eb69edd5354.webp"
+      "/assets/gadgets/21991185afc695e13daf8eb69edd5354.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/21991185afc695e13daf8eb69edd5354.webp"
+    "primaryImage": "/assets/gadgets/21991185afc695e13daf8eb69edd5354.webp"
   },
   {
     "id": "prod_60",
@@ -1435,9 +1435,9 @@
     "shortDescription": "Comfortable and stylish men's apparel suitable for casual outings.",
     "fullDescription": "<p>Comfortable and stylish men's apparel suitable for casual outings.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/male clothing/92264fa3fa7e7248b827ae0bdf628318.webp"
+      "/assets/male clothing/92264fa3fa7e7248b827ae0bdf628318.webp"
     ],
-    "primaryImage": "/src/assets/male clothing/92264fa3fa7e7248b827ae0bdf628318.webp"
+    "primaryImage": "/assets/male clothing/92264fa3fa7e7248b827ae0bdf628318.webp"
   },
   {
     "id": "prod_65",
@@ -1451,9 +1451,9 @@
     "shortDescription": "Comfortable and stylish men's apparel suitable for casual outings.",
     "fullDescription": "<p>Comfortable and stylish men's apparel suitable for casual outings.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/male clothing/ddde149b1134c4387cd174a99b8d2e31.webp"
+      "/assets/male clothing/ddde149b1134c4387cd174a99b8d2e31.webp"
     ],
-    "primaryImage": "/src/assets/male clothing/ddde149b1134c4387cd174a99b8d2e31.webp"
+    "primaryImage": "/assets/male clothing/ddde149b1134c4387cd174a99b8d2e31.webp"
   },
   {
     "id": "prod_43",
@@ -1467,9 +1467,9 @@
     "shortDescription": "Creative pen tablet for digital sketching and illustration.",
     "fullDescription": "<p>Creative pen tablet for digital sketching and illustration.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/gadgets/f215f0df05333b93fe2124d4bc58123b.webp"
+      "/assets/gadgets/f215f0df05333b93fe2124d4bc58123b.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/f215f0df05333b93fe2124d4bc58123b.webp"
+    "primaryImage": "/assets/gadgets/f215f0df05333b93fe2124d4bc58123b.webp"
   },
   {
     "id": "prod_42",
@@ -1483,9 +1483,9 @@
     "shortDescription": "Premium headphones with exceptional build quality and performance.",
     "fullDescription": "<p>Premium headphones with exceptional build quality and performance.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/gadgets/eec847e3b2ad84de6377ba66fdd7a55f.webp"
+      "/assets/gadgets/eec847e3b2ad84de6377ba66fdd7a55f.webp"
     ],
-    "primaryImage": "/src/assets/gadgets/eec847e3b2ad84de6377ba66fdd7a55f.webp"
+    "primaryImage": "/assets/gadgets/eec847e3b2ad84de6377ba66fdd7a55f.webp"
   },
   {
     "id": "prod_17",
@@ -1499,9 +1499,9 @@
     "shortDescription": "White square-neck mini dress featuring puff sleeves, a corset-style waist tie, and sweet red cherry embroidery.",
     "fullDescription": "<p>White square-neck mini dress featuring puff sleeves, a corset-style waist tie, and sweet red cherry embroidery.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/Female-clothing/6ed7303d14b8a7feaa2644eb7630b980.webp"
+      "/assets/Female-clothing/6ed7303d14b8a7feaa2644eb7630b980.webp"
     ],
-    "primaryImage": "/src/assets/Female-clothing/6ed7303d14b8a7feaa2644eb7630b980.webp"
+    "primaryImage": "/assets/Female-clothing/6ed7303d14b8a7feaa2644eb7630b980.webp"
   },
   {
     "id": "prod_92",
@@ -1515,9 +1515,9 @@
     "shortDescription": "High-quality adult wellness product for personal intimacy.",
     "fullDescription": "<p>High-quality adult wellness product for personal intimacy.</p><p>Crafted from premium, body-safe materials for maximum comfort and durability.</p>",
     "images": [
-      "/src/assets/sex-toys/dildo 2.webp"
+      "/assets/sex-toys/dildo 2.webp"
     ],
-    "primaryImage": "/src/assets/sex-toys/dildo 2.webp"
+    "primaryImage": "/assets/sex-toys/dildo 2.webp"
   },
   {
     "id": "prod_73",
@@ -1531,8 +1531,8 @@
     "shortDescription": "Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.",
     "fullDescription": "<p>Upgrade your setup with this ergonomic and aesthetically pleasing workspace addition.</p><p>This item is a perfect addition to your collection, offering both style and durability. Images may depict slight variations in color due to lighting.</p>",
     "images": [
-      "/src/assets/workspace..gaming/359547eb54d381a8c7679ccd0ba097dc.webp"
+      "/assets/workspace..gaming/359547eb54d381a8c7679ccd0ba097dc.webp"
     ],
-    "primaryImage": "/src/assets/workspace..gaming/359547eb54d381a8c7679ccd0ba097dc.webp"
+    "primaryImage": "/assets/workspace..gaming/359547eb54d381a8c7679ccd0ba097dc.webp"
   }
 ]
