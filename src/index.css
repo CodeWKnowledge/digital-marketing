@@ -1,0 +1,32 @@
+/* index.css — minimal reset and global typography overrides */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fafafa !important; /* Minimalist off-white base */
+  color: #111827 !important; /* Stark dark gray/black text */
+}
+
+/* Enforce modern sans-serif stack globally, overriding Litespeed CSS */
+body, h1, h2, h3, h4, h5, h6, p, a, button, input, select, textarea, span, div {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Remove Vite boilerplate container constraints */
+#root {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  text-align: left;
+  border: none;
+  min-height: 100svh;
+  display: block;
+}
