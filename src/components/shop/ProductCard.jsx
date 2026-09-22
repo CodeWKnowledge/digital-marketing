@@ -1,8 +1,9 @@
 import { Link } from 'react-router-dom';
 import { useWishlist } from '../../context/WishlistContext';
 import { useToast } from '../../context/ToastContext';
+import LazyImage from '../ui/LazyImage';
 
-export default function ProductCard({ product }) {
+export default function ProductCard({ product, priority = false }) {
   const { toggleWishlist, isWishlisted } = useWishlist();
   const { addToast } = useToast();
 
@@ -34,17 +35,15 @@ export default function ProductCard({ product }) {
         to={href}
         className="woocommerce-LoopProduct-link woocommerce-loop-product__link"
       >
-        {img && (
-          <img
-            src={img}
-            alt={title}
-            width={250}
-            height={250}
-            className="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-            loading="lazy"
-            decoding="async"
-          />
-        )}
+        <LazyImage
+          src={img}
+          alt={title}
+          width={250}
+          height={250}
+          priority={priority}
+          objectFit="cover"
+          style={{ borderRadius: '4px', width: '100%', aspectRatio: '4/3' }}
+        />
         <div className="total-product-title-wrap">
           <h2 className="woocommerce-loop-product__title">{title}</h2>
         </div>
